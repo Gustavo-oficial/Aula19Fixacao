@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\bin\Debug\netcoreapp3.1\Aula19Fixação.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula19Fixação\obj\Debug\netcoreapp3.1\Aula19Fixação.genruntimeconfig.cache
